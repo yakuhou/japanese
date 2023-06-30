@@ -1,18 +1,10 @@
 [
     {
-        "word": "私",
-        "furigana": "わたくし",
-        "reading": "",
-        "partOfSpeech": "",
-        "audio": "../audios/79c/&u79c1__&u308f&u305f&u304f&u3057.mp3",
-        "subtitle": "../audios/79c/&u79c1__&u308f&u305f&u304f&u3057.vtt"
-    },
-    {
-        "word": "雑色",
+        "word": "",
         "furigana": "",
         "reading": "",
         "partOfSpeech": "",
-        "audio": "../audios/96d/&u96d1&u8272__.mp3",
-        "subtitle": "../audios/96d/&u96d1&u8272__.vtt"
+        "audio": "",
+        "subtitle": ""
     }
 ]
